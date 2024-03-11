@@ -4,7 +4,9 @@ let playerFeedback = "TEST"
 let computerGuess
 loadDIV ();
 
-
+function randomNum() { 
+    return Math.floor(Math.random() * (10-1+1)+1)
+}
 
 function loadDIV () {
     document.getElementById("ScriptThisDIV").innerHTML = "<H1>Hello " + enterName + "</H1>"
