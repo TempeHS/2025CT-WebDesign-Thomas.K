@@ -1,7 +1,7 @@
 let enterName = prompt("Enter your name");
-let playerGuess
-let playerFeedback = "TEST"
-let computerGuess
+let playerGuess;
+//let computerGuess = randomNum();
+let playerFeedback =  enterName;
 loadDIV ();
 
 function randomNum() { 
