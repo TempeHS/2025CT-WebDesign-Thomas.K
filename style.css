@@ -1,5 +1,6 @@
 body {
   padding: 25px;
+<<<<<<< HEAD
   background-color: rgb(255, 255, 255);
   color: rgb(26, 24, 24);
 }
@@ -9,3 +10,17 @@ body {
   color: rgb(68, 62, 62);
 }
 
+=======
+  background-color: rgb(36, 32, 32);
+  color: rgb(36, 32, 32);
+}
+
+.dark-mode {
+  background-color: rgb(36, 32, 32);
+  color: rgb(36, 31, 31);
+}
+.navbar {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+>>>>>>> 65a2351258128d9c5d85f3cb27d509e808b6555e
