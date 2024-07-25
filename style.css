@@ -1,7 +1,7 @@
 body {
   padding: 25px;
-<<<<<<< HEAD
-  background-color: rgb(255, 255, 255);
+
+  background-color: rgb(230, 214, 214);
   color: rgb(26, 24, 24);
 }
 
@@ -10,17 +10,13 @@ body {
   color: rgb(68, 62, 62);
 }
 
-=======
-  background-color: rgb(36, 32, 32);
-  color: rgb(36, 32, 32);
+.iframe {
+  border-style: double;
+  border-radius: 10px;
+  border-width: 10px;
 }
 
-.dark-mode {
-  background-color: rgb(36, 32, 32);
-  color: rgb(36, 31, 31);
+.footer {
+  background-color: bisque;
+  height: 200px
 }
-.navbar {
-  padding-bottom: 0px;
-  padding-top: 0px;
-}
->>>>>>> 65a2351258128d9c5d85f3cb27d509e808b6555e
